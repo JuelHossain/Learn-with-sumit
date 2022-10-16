@@ -25,3 +25,6 @@
 [submodule "counter-app-redux"]
 	path = counter-app-redux
 	url = https://github.com/JuelHossain/counter-app-redux.git
+[submodule "project-management-app-redux"]
+	path = project-management-app-redux
+	url = https://github.com/JuelHossain/project-management-app-redux.git
