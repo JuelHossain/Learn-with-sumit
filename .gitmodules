@@ -1,0 +1,27 @@
+[submodule "chat-application-redux"]
+	path = chat-application-redux
+	url = https://github.com/JuelHossain/chat-application-redux.git
+[submodule "todos-app-rtk-query"]
+	path = todos-app-rtk-query
+	url = https://github.com/JuelHossain/todos-app-rtk-query.git
+[submodule "expense-tracker-redux"]
+	path = expense-tracker-redux
+	url = https://github.com/JuelHossain/expense-tracker-redux.git
+[submodule "videos-app-redux"]
+	path = videos-app-redux
+	url = https://github.com/JuelHossain/videos-app-redux.git
+[submodule "playing-with-redux-thunk"]
+	path = playing-with-redux-thunk
+	url = https://github.com/JuelHossain/playing-with-redux-thunk.git
+[submodule "todos-app-redux"]
+	path = todos-app-redux
+	url = https://github.com/JuelHossain/todos-app-redux.git
+[submodule "bloggers-base-redux"]
+	path = bloggers-base-redux
+	url = https://github.com/JuelHossain/bloggers-base-redux.git
+[submodule "cart-app-redux"]
+	path = cart-app-redux
+	url = https://github.com/JuelHossain/cart-app-redux.git
+[submodule "counter-app-redux"]
+	path = counter-app-redux
+	url = https://github.com/JuelHossain/counter-app-redux.git
